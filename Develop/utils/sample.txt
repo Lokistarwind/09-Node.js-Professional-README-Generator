@@ -1,0 +1,35 @@
+Sample file
+
+01. What is your project title?
+09-Node.js-Professional-README-Generator
+
+02. Provide a short description explaining the what, why, and how of your project.
+
+The purpose of this project is to build a Readme Generator. It was made to create a an automated method of making a professional readme file without needing to format and write one up oneself. It solves the issue of making readme without the need of properly formatting it. Also it works as guide to building one for people who don’t have much experience making one. Making the code for it help me understand the concept of Node.js in that data can be taken and manipulated to build files from scratch and an en try point in making more complex automated software.
+
+03. What are the steps required to install your project? 
+
+In the terminal enter “npm init -y” . Afterwards install inquirer by typing this into the terminal “npm i inquirer@8.2.4”. Now you can run the project by typing “node index”
+
+04. For application usage, provide instructions and examples for use.
+
+To use the project, you type the following into the terminal: “node index”. Now the project will ask a series of questions and will guide you on how top use it. If you do not have the answers ready then you can refer https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide as a guide.
+
+05. What are your contribution guidelines?
+
+This project was designed for education purposes but has applicable uses for its intended purposes. If you wish to contribute you may do so. However the project may not be taken solely for use in graded projects.
+
+06. Go the extra mile and write down test instructions for your application
+
+Open sample.txt. Run the application by entering the correct directory /09-Node.js-Professional-README-Generator/Develop . Type in node index into the terminal. The application will ask you a string of questions. Copy and paste answers corresponding to the sections in sample.txt A new README.md file will be created based on the information.
+
+07. Please choose a liscense
+
+For license just enter a number between 1-7. For simplicity you can just enter 5 Note: entering anything other than the options will default to 7. The Unlicense
+
+08. Enter your Github Username
+lokistarwind
+
+09. Enter your email address
+louis.antolin@gmail.com
+
